@@ -1,2 +1,7 @@
-# AI-research-llm-2025
-Code and paper for research on Multi-Agent LLM Framework for Collaborative Surgical Planning in Complex Robotic Procedures
+# VitalBridgeAI: Autonomous LLM Agents for Continuous Patient Monitoring – A System Bridging Intensive Care and Home Healthcare
+
+# Abstract: 
+Continuous patient monitoring across intensive care and home healthcare settings faces major challenges from fragmented data and poor care transitions. We introduce VitalBridgeAI, a novel multi-agent architecture leveraging state-of-the-art large language models (LLMs) such as GPT-4, Claude 3, and LLaMA 3 for autonomous, context-aware monitoring. The system features role-based agents that collaborate using structured protocols, enabling real-time, memory-enhanced clinical decision-making with explainable reasoning pathways. Through integrated SHAP and LIME techniques, our framework offers transparency and regulatory alignment while maintaining HIPAA compliance via differential privacy. Evaluations across simulated and real-world scenarios demonstrate significant improvements in alert precision (93%), reduction of care transition gaps (87%), and clinician workflow integration. Our contribution represents a major advancement in generative AI for healthcare, with implications for personalized medicine, human-AI collaboration, and trustworthy clinical automation.
+
+# Keywords 
+Autonomous LLM Agents AI in Healthcare, Multi-Agent Systems, Explainable AI (XAI), Clinical Decision Support, Memory-Augmented Language Models, Generative AI in Medicine
